@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+Technology Stack used:
+
+- React.js
+- React Styled Components
+- Material UI
+- Material UI Icons
+
+
 
 ## Available Scripts
 
